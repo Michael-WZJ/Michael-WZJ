@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Michael-J 👋
+Computer science student from [University of Bristol](https://www.bristol.ac.uk/university/). I am a tech enthusiast and enjoy coding my way to implement various ideas.
+
+- 🔭 I’m currently working on my [Summer Project](https://github.com/Patanga/GroupK_CGIAR_Farm_Datasets_BackEnd).
+- 🌱 I’m currently learning Java Spring & Python.
 
 <!--
 **Michael-WZJ/Michael-WZJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
